@@ -1,0 +1,14 @@
+.test {
+    display: flex;
+    width: 90%;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.test h1 {
+    padding-left:  20px;
+
+}
+.test p {
+}
